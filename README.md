@@ -1,46 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hitesh Chauhan</h1>
+<h3 align="center">A passionate Cloud Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshchauhan89&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshchauhan89" /> </p>
 
-**hiteshchauhan89/hiteshchauhan89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📝 I regularly write articles on [http://www.hiteshchauhan.xyz/blogs](http://www.hiteshchauhan.xyz/blogs)
 
-## Hi, I am Hitesh Chauhan!
+- 📫 How to reach me **hiteshchauh@gmail.com**
 
-👋 Hi, I'm **Hitesh Chauhan**, a full-time **AWS DevOps Engineer** at **CGB Solution** 👨‍💻🚀  
-🔹 Passionate about **Cloud, Automation & DevOps**  
-🔹 Love working with **AWS, Kubernetes, Terraform, and CI/CD Pipelines**  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hitesh-chauhan-a1b25a11b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh-chauhan-a1b25a11b" height="30" width="40" /></a>
+<a href="https://fb.com/hts.chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hts.chauhan" height="30" width="40" /></a>
+<a href="https://instagram.com/hts.chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hts.chauhan" height="30" width="40" /></a>
+</p>
 
-📫 **Let's Connect**:  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/hiteshchauhan89)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/hitesh-chauhan-a1b25a11b)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-
----
-## My Skill Set
-
-
-
-## 💡 My Tech Stack  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
----
-
-## 📊 GitHub Stats  
-![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiteshchauhan89&show_icons=true&theme=radical)  
-
-
----
-
-## 📝 Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-https://www.hiteshchauhan.xyz/blogs/
-<!-- BLOG-POST-LIST:END -->  
-
----
-
-⚡ **Fun Fact**: I prefer **tabs over spaces** 😆  
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hiteshchauhan89"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hiteshchauhan89" /></a></p><br><br>
